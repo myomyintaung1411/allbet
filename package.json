@@ -16,7 +16,7 @@
     "v-calendar": "^3.0.0-alpha.8",
     "vue": "^3.2.37",
     "vue-clipboard3": "^2.0.0",
-    "vue-loading-overlay": "^5.0.3",
+    "vue-loading-overlay": "^6.0.2",
     "vue-qr": "^4.0.9",
     "vue-router": "^4.0.16",
     "vue-sweetalert2": "^5.0.5",
